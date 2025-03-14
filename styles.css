@@ -157,7 +157,7 @@ nav ul {
     width:auto;
     height:520px;
     position: absolute;
-    left: 75%;
+    left: 45%;
     animation: float 3s infinite ease-in-out;
 }
 
