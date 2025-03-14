@@ -165,3 +165,10 @@ nav ul {
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-20px); }
 }
+
+#blogs {
+    display:grid;
+    grid-template-column: repeat (3,1fr);
+    gap:20px;
+    justify-content:centre;
+}
