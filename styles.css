@@ -157,4 +157,11 @@ nav ul {
     height:600px;
     position: absolute;
     left: 68%;
+    animation: float 3s infinite ease-in-out;
+}
+
+
+@keyframes float {
+    0%, 100% { transform: translate(-50%, -50%) translateY(0); }
+    50% { transform: translate(-50%, -50%) translateY(-20px); }
 }
