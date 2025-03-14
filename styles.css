@@ -136,8 +136,8 @@ nav ul {
 #home h1 {
     margin-top: 40px;
     margin-left: 30px;
-    width: 500px;
-    font-size: 50px;
+    width: 680px;
+    font-size: 120px;
 }
 
 
@@ -164,11 +164,4 @@ nav ul {
 @keyframes float {
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-20px); }
-}
-
-#blogs {
-    display:grid;
-    grid-template-column: repeat (3,1fr);
-    gap:20px;
-    justify-content:centre;
 }
