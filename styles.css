@@ -159,7 +159,13 @@ nav ul {
     left: 68%;
     animation: float 3s infinite ease-in-out;
 }
-
+.rocket{
+    width:auto;
+    height:400px;
+    position: absolute;
+    left: 68%;
+    animation: float 3s infinite ease-in-out;
+}
 
 @keyframes float {
     0%, 100% { transform: translateY(0); }
