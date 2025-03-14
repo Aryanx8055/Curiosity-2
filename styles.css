@@ -166,7 +166,7 @@ nav ul {
     50% { transform: translateY(-20px); }
 }
 
-#contacts{
+#contact{
     width: 100%;
     postion:fixed;
 }
