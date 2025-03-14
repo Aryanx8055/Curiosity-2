@@ -147,7 +147,7 @@ nav ul {
 }
 
 
-.anihome{
+.anihome,.aniabout{
     justify-content: space-between;
     display: flex;
 }
