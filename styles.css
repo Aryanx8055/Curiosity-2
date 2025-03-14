@@ -155,7 +155,7 @@ nav ul {
 }
 .rocket{
     width:auto;
-    height:480px;
+    height:520px;
     position: absolute;
     left: 50%;
     animation: float 3s infinite ease-in-out;
